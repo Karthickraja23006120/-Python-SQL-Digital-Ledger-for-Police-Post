@@ -28,12 +28,12 @@ SecureCheck provides:
 ## Project Structure
 ```
 securecheck-police-logs-analysis
-├── 1_data_source
+├── 1_data source
 │   └── traffic_stops - traffic_stops_with_vehicle_number.csv  (The original, raw data file)
-├── 2_data_processing
+├── 2_data processing
 │   ├── police.py                                            (The cleaning)
 │   └── cleaned_traffic_stops.csv                            (The transformed data output)
-├── 3_application_and_db
+├── 3_application
 │   ├── app.py                                               (The Streamlit dashboard application)
 │   └── securecheck_police_logs.db                           (The SQLite database)
 └── README.md
