@@ -15,7 +15,7 @@ SecureCheck provides:
 
 - Automated SQL analytics for violation patterns, arrests, and drug-related stops
 
-  ## Tech Stack
+ ## Tech Stack
   
 -  Python (Pandas, SQLAlchemy)
 
@@ -31,7 +31,7 @@ securecheck-police-logs-analysis
 ├── 1_data_source
 │   └── traffic_stops - traffic_stops_with_vehicle_number.csv  (The original, raw data file)
 ├── 2_data_processing
-│   ├── police.py                                            (The cleaning/ETL script)
+│   ├── police.py                                            (The cleaning)
 │   └── cleaned_traffic_stops.csv                            (The transformed data output)
 ├── 3_application_and_db
 │   ├── app.py                                               (The Streamlit dashboard application)
@@ -40,3 +40,25 @@ securecheck-police-logs-analysis
 
 ```
 
+## How To Run
+
+### 1) Prerequisites
+
+- Python 3.12
+
+ ### 2)Clone the Repository
+
+ - ```git clone Repo Url ```
+ - ```  cd  folder name ```
+### 3)Install Dependencies
+
+```pip install pandas streamlit sqlalchemy```
+
+### 4)Data Preparation
+
+``` python police.py ```
+
+### 5)Run the Dashboard Application
+
+``` streamlit run app.py ```
+ 
