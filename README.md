@@ -42,7 +42,7 @@ securecheck-police-logs-analysis
 
 ## How To Run
 
-### 1) Prerequisites
+### 1) Prerequisites 
 
 - Python 3.12
 
