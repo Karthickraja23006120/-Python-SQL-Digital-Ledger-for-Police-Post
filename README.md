@@ -63,3 +63,11 @@ securecheck-police-logs-analysis
 
 ``` streamlit run app.py ```
  
+## Output 
+
+<img width="1898" height="883" alt="Screenshot 2025-11-23 220002" src="https://github.com/user-attachments/assets/f86cb686-2516-4bd8-9b52-1f7fb79eb75e" />
+
+
+<img width="1897" height="899" alt="Screenshot 2025-11-23 220036" src="https://github.com/user-attachments/assets/bcae2dda-dc1d-49a9-aa83-09305f15de82" />
+
+
