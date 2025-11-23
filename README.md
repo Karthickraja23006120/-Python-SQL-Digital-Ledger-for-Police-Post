@@ -1,6 +1,5 @@
 # SecureCheck: A Python-SQL Digital Ledger for Police Post Logs
-SecureCheck is a real-time vehicle stop monitoring system built using Python, SQL, and Streamlit.
-It replaces manual check-post logging with a centralized and automated digital ledger that helps law enforcement agencies track, analyze, and monitor vehicle movements efficiently.
+Police check posts require a centralized system for logging, tracking, and analyzing vehicle movements. Currently, manual logging and inefficient databases slow down security processes. This project aims to build an SQL-based check post database with a Python-powered dashboard for real-time insights and alerts.
 
 ## Project Overview
 
