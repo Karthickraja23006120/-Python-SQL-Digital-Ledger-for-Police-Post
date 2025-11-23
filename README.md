@@ -35,7 +35,7 @@ securecheck-police-logs-analysis
 ├── 3_application
 │   ├── app.py                                               (The Streamlit dashboard application)
 │   └── securecheck_police_logs.db                           (The SQLite database)
-└── README.md
+
 
 ```
 
